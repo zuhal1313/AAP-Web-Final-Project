@@ -108,7 +108,7 @@ a:hover{
  #Z{
   margin-left:100px;
   margin-top:43px;
-  width:500px;
+  width:45%;
   height:250px;
   display: inline-block;
   box-shadow:1px 5px 10px ;
@@ -124,7 +124,7 @@ a:hover{
 #network{
   margin-left:43%;
   margin-top:0px;
-  margin-bottom:50px;
+  margin-bottom:60px;
  }
 footer{
   color: white ;
