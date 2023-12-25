@@ -106,12 +106,13 @@ a:hover{
  
     }
  #Z{
-  margin-left:50px;
+  margin-left:100px;
   margin-top:43px;
   width:500px;
   height:250px;
   display: inline-block;
   box-shadow:1px 5px 10px ;
+   padding-right:50px;
 }
  #log img{
       
